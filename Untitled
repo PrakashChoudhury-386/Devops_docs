@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Vinay Mohan:mailto:vinay.mohan1@tcs.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=prakashcho
+ udhuryece@yahoo.com:mailto:prakashchoudhuryece@yahoo.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Narasimha 
+ Murthy N:mailto:n.narasimha@tcs.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Anand  Sah
+ u:mailto:anand.sahu@tcs.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tanuja  Sa
+ ha:mailto:tanuja.saha@tcs.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=P  Kollo:m
+ ailto:p.kollo@tcs.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=MONIKA SHA
+ RMA:mailto:monika1.s@tcs.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Johnson St
+ ephen:mailto:johnson.s@tcs.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ankit Vish
+ wakarma:mailto:ankit.vishwakarma1@tcs.com
+ATTACH:CID:65624C97877B5F4DBBE580D2862F5565@INDPRD01.PROD.OUTLOOK.COM
+DESCRIPTION;LANGUAGE=en-US:Dear All\,\n\nKindly join the meeting link on 8 
+ May 2023 at 4 PM for interview.\n\nCandidate is available at 9000933826\n\
+ n\nDear Candidate\,\n\nKindly keep a Govt Identity card handy with you. It
+  can be Aadhar / PAN.\n\nPlease respond/reply to all in case of you're not
+  available/need interview to be rescheduled\, so that everyone marked in t
+ he invite would be notified.\n\nDear Panelists\,\n\nPlease share screensho
+ t with both panelists & candidate available on camera\, date stamp and par
+ ticipants pane open & share the feedback once the Interview is done.\n\n\n
+ Thanks & Regards\,\nVinay Mohan\nAWS Business Unit\nTata Consultancy Servi
+ ces\nMail to: vinay.mohan1@tcs.com<mailto:vinay.mohan1@tcs.com>\n_________
+ _______________________________________________________________________\nM
+ icrosoft Teams meeting\nJoin on your computer\, mobile app or room device\
+ nClick here to join the meeting<https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZmRlYjhmNzItNTFlYi00ZGNhLWI1OGYtOTQzYWJjYTIwNDMy%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22404b1967-6507-45ab-8a6d-7374a3f478be%22%2c%22O
+ id%22%3a%22bcfc95df-8f16-4026-b1f1-6dd86d66f6ae%22%7d>\nMeeting ID: 492 89
+ 4 400 282\nPasscode: 2BdYe6\nDownload Teams<https://www.microsoft.com/en-u
+ s/microsoft-teams/download-app> | Join on the web<https://www.microsoft.co
+ m/microsoft-teams/join-a-meeting>\n
+UID:040000008200E00074C5B7101A82E00800000000B049D65CED78D901000000000000000
+ 01000000058F2E30E38CB824E8BF20CCBCDF8907D
+SUMMARY;LANGUAGE=en-US:EP2023CN2434185_Prakash Choudhary_AWS Devops
+DTSTART;TZID=India Standard Time:20230508T160000
+DTEND;TZID=India Standard Time:20230508T170000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230428T043156Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:-365213721
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ZmRlYjhmNzItNTFlYi00ZGNhLWI1OGYtOTQzYWJjYTIwNDMy%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22404b1967-6507-45ab-8a6d-7374a3f478be%22%2c%22O
+ id%22%3a%22bcfc95df-8f16-4026-b1f1-6dd86d66f6ae%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/404b1967-6507-45ab-8a6d-7374a3f478be/bcfc95df-8f16-4026-b1f1-6
+ dd86d66f6ae/19_meeting_ZmRlYjhmNzItNTFlYi00ZGNhLWI1OGYtOTQzYWJjYTIwNDMy@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ZmRlYjhmNzItNTFlYi00ZGN
+ hLWI1OGYtOTQzYWJjYTIwNDMy@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:2073019@tcs.com\;gruu\;opaque=ap
+ p:conf:focus:id:teams:2:0!19:meeting_ZmRlYjhmNzItNTFlYi00ZGNhLWI1OGYtOTQzY
+ WJjYTIwNDMy-thread.v2!bcfc95df8f164026b1f16dd86d66f6ae!404b1967650745ab8a6
+ d7374a3f478be
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Loca
+ tionUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
